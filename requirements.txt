@@ -11,4 +11,4 @@ streamlit==1.33.0
 openai 
 jq
 chromadb
-sqlite3 >= 3.35.0
+sqlite3
