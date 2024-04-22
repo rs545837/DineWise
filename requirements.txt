@@ -10,4 +10,4 @@ streamlit
 openai 
 jq
 chromadb
-sql
+pysqlite3-binary
