@@ -1,0 +1,163 @@
+[
+    {
+      "name": "Shahi Paneer",
+      "price": 230,
+      "category": "North Indian",
+      "spice_level": "medium",
+      "dietary_pref": "vegetarian",
+      "allergens": []
+    },
+    {
+      "name": "Masala Dosa",
+      "price": 240,
+      "category": "South Indian",
+      "spice_level": "medium",
+      "dietary_pref": "vegetarian",
+      "allergens": []
+    },
+    {
+      "name": "Paneer Dosa",
+      "price": 260,
+      "category": "South Indian",
+      "spice_level": "medium",
+      "dietary_pref": "vegetarian",
+      "allergens": []
+    },
+    {
+      "name": "Chhole Bhature",
+      "price": 135,
+      "category": "North Indian",
+      "spice_level": "medium",
+      "dietary_pref": "vegetarian",
+      "allergens": ["gluten"]
+    },
+    {
+      "name": "Rajma Chawal",
+      "price": 140,
+      "category": "North Indian",
+      "spice_level": "medium",
+      "dietary_pref": "vegetarian",
+      "allergens": []
+    },
+    {
+      "name": "Veg. Momos",
+      "price": 120,
+      "category": "Chinese",
+      "spice_level": "mild",
+      "dietary_pref": "vegetarian",
+      "allergens": ["gluten"]
+    },
+    {
+      "name": "Chicken Momo",
+      "price": 160,
+      "category": "Chinese",
+      "spice_level": "medium",
+      "dietary_pref": "non-vegetarian",
+      "allergens": ["gluten"]
+    },
+    {
+      "name": "Chilly Paneer",
+      "price": 280,
+      "category": "Chinese",
+      "spice_level": "spicy",
+      "dietary_pref": "vegetarian",
+      "allergens": []
+    },
+    {
+      "name": "Chilly Chicken",
+      "price": 290,
+      "category": "Chinese",
+      "spice_level": "spicy",
+      "dietary_pref": "non-vegetarian",
+      "allergens": []
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 320,
+      "category": "Biryani",
+      "spice_level": "spicy",
+      "dietary_pref": "non-vegetarian",
+      "allergens": []
+    },
+    {
+      "name": "Veg Biryani",
+      "price": 280,
+      "category": "Biryani",
+      "spice_level": "medium",
+      "dietary_pref": "vegetarian",
+      "allergens": []
+    },
+    {
+      "name": "Mutton Biryani",
+      "price": 380,
+      "category": "Biryani",
+      "spice_level": "spicy",
+      "dietary_pref": "non-vegetarian",
+      "allergens": []
+    },
+    {
+      "name": "Paneer Tikka",
+      "price": 250,
+      "category": "Starters",
+      "spice_level": "medium",
+      "dietary_pref": "vegetarian",
+      "allergens": []
+    },
+    {
+      "name": "Chicken Tikka",
+      "price": 270,
+      "category": "Starters",
+      "spice_level": "medium",
+      "dietary_pref": "non-vegetarian",
+      "allergens": []
+    },
+    {
+      "name": "Tandoori Chicken",
+      "price": 320,
+      "category": "Tandoor",
+      "spice_level": "medium",
+      "dietary_pref": "non-vegetarian",
+      "allergens": []
+    },
+    {
+      "name": "Butter Naan",
+      "price": 50,
+      "category": "Breads",
+      "spice_level": "mild",
+      "dietary_pref": "vegetarian",
+      "allergens": ["gluten", "dairy"]
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 60,
+      "category": "Breads",
+      "spice_level": "mild",
+      "dietary_pref": "vegetarian",
+      "allergens": ["gluten"]
+    },
+    {
+      "name": "Tandoori Roti",
+      "price": 30,
+      "category": "Breads",
+      "spice_level": "mild",
+      "dietary_pref": "vegetarian",
+      "allergens": ["gluten"]
+    },
+    {
+      "name": "Gulab Jamun",
+      "price": 60,
+      "category": "Desserts",
+      "spice_level": "sweet",
+      "dietary_pref": "vegetarian",
+      "allergens": ["dairy"]
+    },
+    {
+      "name": "Ras Malai",
+      "price": 80,
+      "category": "Desserts",
+      "spice_level": "sweet",
+      "dietary_pref": "vegetarian",
+      "allergens": ["dairy"]
+    },
+    
+  ]

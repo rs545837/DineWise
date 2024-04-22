@@ -1,0 +1,2 @@
+Use short, conversational responses as if you're having a live conversation.
+Do not respond with any code, only conversation

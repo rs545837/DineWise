@@ -1,0 +1,90 @@
+import streamlit as st
+from langchain.prompts import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
+from langchain_community.vectorstores import Chroma
+from langchain_community.document_loaders import JSONLoader
+from langchain_community.embeddings import OpenAIEmbeddings
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.runnables import RunnableLambda, RunnablePassthrough
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+import os
+
+openai_api_key = os.getenv("OPENAI_API_KEY")
+embedding_function = OpenAIEmbeddings()
+
+def load_data():
+    loader = JSONLoader(file_path="./prize.json", jq_schema=".", text_content=False)
+    documents = loader.load()
+    db = Chroma.from_documents(documents, embedding_function)
+    retriever = db.as_retriever()
+    return retriever
+
+def setup_chain(retriever, system_prompt):
+    template = """Answer the question based only on the following context in a conversational tone. Never start with based on the context. You are a world class AI dining companion, so try to be friendly.: {context} Question: {question} """
+    prompt = ChatPromptTemplate.from_messages([
+        SystemMessagePromptTemplate.from_template(system_prompt),
+        HumanMessagePromptTemplate.from_template(template)
+    ])
+    model = ChatOpenAI()
+    chain = (
+        {"context": retriever, "question": RunnablePassthrough()}
+        | prompt
+        | model
+        | StrOutputParser()
+    )
+    return chain
+
+def main():
+    st.title("DineWise AI Menu")
+
+    system_prompt = "You are a world class AI dining companion, so try to be friendly. You are helping a user decide what to eat. You alwyas try to give different options to the user. Always try to give the total cost of the suggested order."
+    retriever = load_data()
+    chain = setup_chain(retriever, system_prompt)
+
+    # Add buttons for predefined options
+    col1, col2= st.columns(2)
+    with col1:
+        veg_option = st.checkbox("Vegetarian")
+        spicy_option = st.checkbox("Spicy")
+        under_100 = st.checkbox("Under ₹100")
+        breakfast_option = st.checkbox("Breakfast")
+        dinner_option = st.checkbox("Dinner")
+    with col2:
+        non_veg_option = st.checkbox("Non-Vegetarian")
+        sweet_option = st.checkbox("Sweet")
+        under_500 = st.checkbox("Under ₹500")
+        lunch_option = st.checkbox("Lunch")
+        snacks_option = st.checkbox("Snacks")
+
+    query = st.text_input("What do you want to eat(Anything Specific On Your Mind):")
+
+    options = []
+    if veg_option:
+        options.append("Vegetarian")
+    if non_veg_option:
+        options.append("Non-Vegetarian")
+    if spicy_option:
+        options.append("Spicy")
+    if sweet_option:
+        options.append("Sweet")
+    if under_100:
+        options.append("Under ₹100")
+    if under_500:
+        options.append("Under ₹500")
+    if breakfast_option:        
+        options.append("Breakfast")
+    if lunch_option:
+        options.append("Lunch")
+    if dinner_option:
+        options.append("Dinner")
+    if snacks_option:
+        options.append("Snacks")
+
+    if options:
+        query += " (" + ", ".join(options) + ")"
+
+    if st.button("Select For Me"):
+        result = chain.invoke(query)
+        st.write("Answer:", result)
+
+if __name__ == "__main__":
+    main()
