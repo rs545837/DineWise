@@ -8,6 +8,10 @@ from langchain_core.runnables import RunnableLambda, RunnablePassthrough
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 import os
 
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 openai_api_key = os.getenv("OPENAI_API_KEY")
 embedding_function = OpenAIEmbeddings()
 
