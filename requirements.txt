@@ -10,3 +10,4 @@ streamlit
 openai 
 jq
 chromadb
+sql
