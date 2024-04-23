@@ -86,6 +86,7 @@ def main():
         under_500 = st.checkbox("Under ₹500")
         lunch_option = st.checkbox("Lunch")
         snacks_option = st.checkbox("Snacks")
+        chinese_option = st.checkbox("Chinese")
         
     prev_qry = ""
     query = st.text_input("What do you want to eat(Anything Specific On Your Mind):")
@@ -113,6 +114,8 @@ def main():
         options.append("Snacks")
     if combos_option:
         options.append("Combos")
+    if chinese_option:
+        options.append("Chinese")
 
     if options:
         query += " (" + ", ".join(options) + ")"
