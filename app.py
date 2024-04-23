@@ -7,10 +7,8 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnableLambda, RunnablePassthrough
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 import os
+from streamlit_option_menu import option_menu
 
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 openai_api_key = os.getenv("OPENAI_API_KEY")
 embedding_function = OpenAIEmbeddings()
@@ -38,6 +36,18 @@ def setup_chain(retriever, system_prompt):
     return chain
 
 def main():
+    # # 1. as sidebar menu
+    # with st.sidebar:
+    #     selected = option_menu("Main Menu", ["Home", 'Settings'], 
+    #         icons=['house', 'gear'], menu_icon="cast", default_index=1)
+    #     selecteds
+
+    # # 2. horizontal menu
+    # selected2 = option_menu(None, ["Home", "Upload", "Tasks", 'Settings'], 
+    #     icons=['house', 'cloud-upload', "list-task", 'gear'], 
+    #     menu_icon="cast", default_index=0, orientation="horizontal")
+    # selected2
+
     st.title("DineWise AI Menu")
 
     system_prompt = "You are a world class AI dining companion, so try to be friendly. You are helping a user decide what to eat. You alwyas try to give different options to the user. Always try to give the total cost of the suggested order."
@@ -58,7 +68,8 @@ def main():
         under_500 = st.checkbox("Under ₹500")
         lunch_option = st.checkbox("Lunch")
         snacks_option = st.checkbox("Snacks")
-
+        
+    prev_qry = ""
     query = st.text_input("What do you want to eat(Anything Specific On Your Mind):")
 
     options = []
@@ -86,7 +97,8 @@ def main():
     if options:
         query += " (" + ", ".join(options) + ")"
 
-    if st.button("Select For Me"):
+    if st.button("Select For Me") or (prev_qry != query):
+        prev_qry = query
         result = chain.invoke(query)
         st.write("Answer:", result)
 
