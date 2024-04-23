@@ -79,6 +79,7 @@ def main():
         under_100 = st.checkbox("Under ₹100")
         breakfast_option = st.checkbox("Breakfast")
         dinner_option = st.checkbox("Dinner")
+        combos_option = st.checkbox("Combos")
     with col2:
         non_veg_option = st.checkbox("Non-Vegetarian")
         sweet_option = st.checkbox("Sweet")
@@ -110,6 +111,8 @@ def main():
         options.append("Dinner")
     if snacks_option:
         options.append("Snacks")
+    if combos_option:
+        options.append("Combos")
 
     if options:
         query += " (" + ", ".join(options) + ")"
