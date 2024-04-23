@@ -7,7 +7,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnableLambda, RunnablePassthrough
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 import os
-from streamlit_option_menu import option_menu
+
 
 
 openai_api_key = os.getenv("OPENAI_API_KEY")
