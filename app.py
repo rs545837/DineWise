@@ -23,7 +23,7 @@ def load_data():
     return retriever
 
 def setup_chain(retriever, system_prompt):
-    template = """Answer the question based only on the following context in a conversational tone. Never start with based on the context. You are a world class AI dining companion, so try to be friendly. Here are the broad categories/headings for typical food eaten at Bikanervala restaurants across different meal times:
+    template = """Answer the question based only on the following context in a conversational tone. Never start with based on the context. You are a world class AI dining companion, so try to be friendly. Remember the Non-Veg Options are usually with chicken. Here are the broad categories/headings for typical food eaten at Bikanervala restaurants across different meal times:
     Breakfast:
     Snacks/Chaat
     Thali/Combos
