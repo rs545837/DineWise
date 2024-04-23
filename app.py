@@ -8,9 +8,9 @@ from langchain_core.runnables import RunnableLambda, RunnablePassthrough
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 import os
 
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+# __import__('pysqlite3')
+# import sys
+# sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 openai_api_key = os.getenv("OPENAI_API_KEY")
 embedding_function = OpenAIEmbeddings()
@@ -23,7 +23,22 @@ def load_data():
     return retriever
 
 def setup_chain(retriever, system_prompt):
-    template = """Answer the question based only on the following context in a conversational tone. Never start with based on the context. You are a world class AI dining companion, so try to be friendly.: {context} Question: {question} """
+    template = """Answer the question based only on the following context in a conversational tone. Never start with based on the context. You are a world class AI dining companion, so try to be friendly. Here are the broad categories/headings for typical food eaten at Bikanervala restaurants across different meal times:
+    Breakfast:
+    Snacks/Chaat
+    Thali/Combos
+    Bread/Bakery Items
+    Lunch:
+    Thali Meals
+    Curries/Gravies
+    Breads/Rice
+    Evening:
+    Chaat/Snacks
+    Sweets
+    Dinner:
+    Vegetarian Main Course
+    Dal/Sabzi Curries
+    Breads/Rice: {context} Question: {question} """
     prompt = ChatPromptTemplate.from_messages([
         SystemMessagePromptTemplate.from_template(system_prompt),
         HumanMessagePromptTemplate.from_template(template)
@@ -52,7 +67,7 @@ def main():
 
     st.title("DineWise AI Menu")
 
-    system_prompt = "You are a world class AI dining companion, so try to be friendly. You are helping a user decide what to eat. You alwyas try to give different options to the user. Always try to give the total cost of the suggested order."
+    system_prompt = "You are a world class AI dining companion, so try to be friendly. You are helping a user decide what to eat. You alwyas try to give different options to the user. Always try to give the total cost of the suggested order, whenever you suggest any item. Also always try to suggest something:."
     retriever = load_data()
     chain = setup_chain(retriever, system_prompt)
 
