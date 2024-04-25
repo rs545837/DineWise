@@ -16,14 +16,14 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 embedding_function = OpenAIEmbeddings()
 
 def load_data():
-    loader = JSONLoader(file_path="./prize.json", jq_schema=".", text_content=False)
+    loader = JSONLoader(file_path="./prize2.json", jq_schema=".", text_content=False)
     documents = loader.load()
     db = Chroma.from_documents(documents, embedding_function)
     retriever = db.as_retriever()
     return retriever
 
 def setup_chain(retriever, system_prompt):
-    template = """Answer the question based only on the following context in a conversational tone. Never start with based on the context. You are a world class AI dining companion, so try to be friendly. Remember the Non-Veg Options are usually with chicken. Here are the broad categories/headings for typical food eaten at Bikanervala restaurants across different meal times:
+    template = """Answer the question based only on the following context in a conversational tone. Never start with based on the context. You are a world class AI dining companion, so try to be friendly. Remember the Non-Veg Options are usually with chicken. Here are the broad categories/headings for typical food eaten at restaurants across different meal times:
     Breakfast:
     Snacks/Chaat
     Thali/Combos

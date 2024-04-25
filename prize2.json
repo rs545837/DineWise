@@ -1,0 +1,774 @@
+{
+    "Chicken Curry": [
+    {
+    "item": "Butter Chicken",
+    "full": 465,
+    "half": 310,
+    "quarterPlate": 180
+    },
+    {
+    "item": "Butter Chicken (24 Pcs Qtl)",
+    "full": 535,
+    "half": 330,
+    "quarterPlate": null
+    },
+    {
+    "item": "Kadhai Chicken (24 Pcs Qtl)",
+    "full": 530,
+    "half": 330,
+    "quarterPlate": null
+    },
+    {
+    "item": "Chicken Lababdar (24 Pcs Qtl)",
+    "full": 575,
+    "half": 350,
+    "quarterPlate": null
+    },
+    {
+    "item": "Handi Chicken (24 Pcs Qtl)",
+    "full": 575,
+    "half": 360,
+    "quarterPlate": null
+    },
+    {
+    "item": "Kadhai Chicken",
+    "full": 465,
+    "half": 310,
+    "quarterPlate": 180
+    },
+    {
+    "item": "Handi Chicken",
+    "full": 515,
+    "half": 360,
+    "quarterPlate": 190
+    },
+    {
+    "item": "Tawa Chicken",
+    "full": 455,
+    "half": 310,
+    "quarterPlate": 180
+    },
+    {
+    "item": "Chicken Masala",
+    "full": 455,
+    "half": 310,
+    "quarterPlate": 180
+    },
+    {
+    "item": "Chicken Do Pyaza",
+    "full": 455,
+    "half": 310,
+    "quarterPlate": 180
+    },
+    {
+    "item": "Dum Chicken Curry",
+    "full": 425,
+    "half": 270,
+    "quarterPlate": 170
+    },
+    {
+    "item": "Egg Curry",
+    "full": null,
+    "half": 210,
+    "quarterPlate": 120
+    },
+    {
+    "item": "Extra Chicken Gravy 500-ml",
+    "price": 130
+    }
+    ],
+    "Indian Veg. Curry": [
+    {
+    "item": "Dal Makhani",
+    "full": 195,
+    "half": 105
+    },
+    {
+    "item": "Dal Dhaba Wali",
+    "full": 165,
+    "half": null
+    },
+    {
+    "item": "Dal Punjabi",
+    "full": 165,
+    "half": null
+    },
+    {
+    "item": "Yellow Dal Fried",
+    "full": 155,
+    "half": null
+    },
+    {
+    "item": "Rajma Masala",
+    "full": 165,
+    "half": 90
+    },
+    {
+    "item": "Chholle (Kabli Chana)",
+    "full": 165,
+    "half": 90
+    },
+    {
+    "item": "Chana Masala",
+    "full": 170,
+    "half": 100
+    },
+    {
+    "item": "Paneer Butter Masala",
+    "full": 210,
+    "half": 115
+    },
+    {
+    "item": "Paneer Do Pyaza",
+    "full": 205,
+    "half": 105
+    },
+    {
+    "item": "Shahi Paneer",
+    "full": 205,
+    "half": 105
+    },
+    {
+    "item": "Mutter Paneer",
+    "full": 205,
+    "half": 105
+    },
+    {
+    "item": "Kadhai Paneer",
+    "full": 210,
+    "half": 105
+    },
+    {
+    "item": "Palak Paneer",
+    "full": 195,
+    "half": 105
+    },
+    {
+    "item": "Palak Kofta",
+    "full": 210,
+    "half": null
+    },
+    {
+    "item": "Mushroom Paneer",
+    "full": 210,
+    "half": 105
+    },
+    {
+    "item": "Paneer Pasanda",
+    "full": 190,
+    "half": null
+    },
+    {
+    "item": "Paneer Lababdar",
+    "full": 200,
+    "half": null
+    },
+    {
+    "item": "Paneer Methi Malai",
+    "full": 205,
+    "half": null
+    },
+    {
+    "item": "Paneer Bhujiya",
+    "full": 230,
+    "half": 130
+    },
+    {
+    "item": "Paneer Tikka Masala",
+    "full": 230,
+    "half": null
+    },
+    {
+    "item": "Mutter Mushroom",
+    "full": 195,
+    "half": 105
+    },
+    {
+    "item": "Mushroom Matter Masale",
+    "full": 205,
+    "half": 105
+    },
+    {
+    "item": "Mushroom Do Pyaza",
+    "full": 205,
+    "half": 105
+    },
+    {
+    "item": "Mushroom Kadhai",
+    "full": 210,
+    "half": null
+    },
+    {
+    "item": "Jeera Aloo",
+    "full": 155,
+    "half": null
+    },
+    {
+    "item": "Dum Aloo (Kashmiri)",
+    "full": 200,
+    "half": null
+    },
+    {
+    "item": "Dum Aloo (Bhojpuri)",
+    "full": 170,
+    "half": null
+    }
+    ],
+    "Dry Veg.": [
+        {
+        "item": "Malai Kofta",
+        "full": 210,
+        "half": null
+        },
+        {
+        "item": "Navratan Korma",
+        "full": 200,
+        "half": null
+        },
+        {
+        "item": "Mix Veg.",
+        "full": 185,
+        "half": 95
+        },
+        {
+        "item": "Achari Sabz Korma",
+        "full": 185,
+        "half": null
+        },
+        {
+        "item": "Aloo Gobhi",
+        "full": 160,
+        "half": null
+        },
+        {
+        "item": "Gobhi Masala",
+        "full": 160,
+        "half": null
+        },
+        {
+        "item": "Aloo Mutter Dry",
+        "full": 155,
+        "half": null
+        },
+        {
+        "item": "Achari Zeera Aloo",
+        "full": 160,
+        "half": null
+        },
+        {
+        "item": "Beopanshu Spl. Paneer Akbari",
+        "full": 225,
+        "half": null
+        },
+        {
+        "item": "Paneer Hydrabadi",
+        "full": 215,
+        "half": null
+        },
+        {
+        "item": "Soya Chap Butter Masala",
+        "full": 200,
+        "half": null
+        },
+        {
+        "item": "Kadhai Soya Chap",
+        "full": 200,
+        "half": null
+        },
+        {
+        "item": "Veg. Kofta",
+        "full": 185,
+        "half": null
+        },
+        {
+        "item": "Extra Gravy 500ml/250ml",
+        "full": 130,
+        "half": 80
+        }
+        ],
+        "Thali": [
+        {
+        "item": "SPECIAL THALI",
+        "price": 180,
+        "description": "Dal Makhani, Shahi Paneer, Mix Veg., Raita, Rice, 1 Roti, 1 Butter Naan, Onion & Sweet"
+        }
+        ],
+        "Tandoor Se": [
+            {
+            "item": "Bhatty Murg (with Bone) (Spicy)",
+            "price": 370
+            },
+            {
+            "item": "Bhatty Murg (with Bone) (Half)",
+            "price": 230
+            },
+            {
+            "item": "Tandoori Chicken (Full) (8 Pc.)",
+            "price": 355
+            },
+            {
+            "item": "Tandoori Chicken (Half) (4 Pc.)",
+            "price": 210
+            },
+            {
+            "item": "Afgani Chicken (Full) (8 Pc.)",
+            "price": 385
+            },
+            {
+            "item": "Afgani Chicken (Half) (4 Pc.)",
+            "price": 230
+            },
+            {
+            "item": "Chicken Tikka (8 Pc.)",
+            "price": 280
+            },
+            {
+            "item": "Chicken Achari Tikka (8 Pc.)",
+            "price": 270
+            },
+            {
+            "item": "Chicken Malai Tikka (8 Pc.)",
+            "price": 290
+            },
+            {
+            "item": "Paneer Tikka (4 Pc.)",
+            "price": 210
+            },
+            {
+            "item": "Mushroom Tikka (8 Pc.)",
+            "price": 210
+            },
+            {
+            "item": "Chicken Seek Kabab",
+            "price": 170
+            },
+            {
+            "item": "Mutton Seek Kabab",
+            "price": 180
+            },
+            {
+            "item": "Labensi Kallmirch Paneer Tikka (8 Pc.)",
+            "price": 210
+            },
+            {
+            "item": "Hariyapa Paneer Tikka (Spicy) (8 Pc.)",
+            "price": 220
+            },
+            {
+            "item": "Tandoori Soya Chap (12 Pc.)",
+            "price": 190
+            },
+            {
+            "item": "Soya Malai Chap (12 Pc.)",
+            "price": 200
+            },
+            {
+            "item": "Achari Soya Chap (12 Pc.)",
+            "price": 190
+            },
+            {
+            "item": "Haryali Soya Chap (12 Pc.)",
+            "price": 180
+            }
+            ],
+            "Breads": [
+            {
+            "item": "Plain Chapati (Tawa)",
+            "price": 8
+            },
+            {
+            "item": "Butter Chapati (Tawa)",
+            "price": 9.5
+            },
+            {
+            "item": "Plain Roti (Tandoor)",
+            "price": 12
+            },
+            {
+            "item": "Butter Roti (Tandoor)",
+            "price": 13
+            },
+            {
+            "item": "Rumali Roti",
+            "price": 15
+            },
+            {
+            "item": "Plain Naan",
+            "price": 25
+            },
+            {
+            "item": "Butter Nan",
+            "price": 30
+            },
+            {
+            "item": "Stuff Nan. (Veg.)",
+            "price": 40
+            },
+            {
+            "item": "Keema Nan",
+            "price": 50
+            },
+            {
+            "item": "Aloo Nan",
+            "price": 35
+            },
+            {
+            "item": "Garlic Nan",
+            "price": 35
+            },
+            {
+            "item": "Paneer Nan",
+            "price": 45
+            },
+            {
+            "item": "Missi Roti",
+            "price": 25
+            },
+            {
+            "item": "Lachha Paratha",
+            "price": 25
+            },
+            {
+            "item": "Stuffed Paratha (Veg.)",
+            "price": 35
+            },
+            {
+            "item": "Aloo Paratha / Onion Paratha",
+            "price": 30
+            },
+            {
+            "item": "Pudina Paratha",
+            "price": 30
+            },
+            {
+            "item": "Ajoo + Onion Paratha",
+            "price": 35
+            },
+            {
+            "item": "Paneer Paratha",
+            "price": 40
+            },
+            {
+            "item": "Onion Kulchha",
+            "price": 30
+            },
+            {
+            "item": "Aloo Kulchha",
+            "price": 30
+            },
+            {
+            "item": "Deepanshu Sp. Bread Tokari",
+            "description": "(1 Missi+1 Lachha+1 B.Non+1 Kulcha+1 B.Roti+1 Chapati)",
+            "price": 120
+            }
+            ],
+            "Beverage": [
+            {
+            "item": "Mineral Water",
+            "price": 20
+            },
+            {
+            "item": "Cold Drink (750 M.L.)",
+            "price": 40
+            },
+            {
+            "item": "Gulabjamun",
+            "price": 20
+            }
+            ],
+            "notes": [
+            "Rates are subject to Change without any prior Notice"
+            ],
+            "Soup": [
+                {
+                "item": "Veg. Clear Soup",
+                "price": 70
+                },
+                {
+                "item": "Veg. Manchow Soup",
+                "price": 70
+                },
+                {
+                "item": "Veg. Hot n' Sour Soup",
+                "price": 70
+                },
+                {
+                "item": "Tomato Soup",
+                "price": 70
+                },
+                {
+                "item": "Veg. Sweet Corn Soup",
+                "price": 80
+                },
+                {
+                "item": "Deepanshu Spl. Lemon Coriander Soup (Veg.)",
+                "price": 90
+                },
+                {
+                "item": "Chicken Clear Soup",
+                "price": 80
+                },
+                {
+                "item": "Chicken Soup",
+                "price": 80
+                },
+                {
+                "item": "Chicken Hot n' Sour Soup",
+                "price": 90
+                },
+                {
+                "item": "Deepanshu Spl. Lemon Coriander Soup (Chi.)",
+                "price": 100
+                }
+                ],
+                "Momos": [
+                {
+                "item": "Veg Steam Momo (10 PCS.)",
+                "price": 150
+                },
+                {
+                "item": "Veg Fried Momo (10 PCS.)",
+                "price": 160
+                },
+                {
+                "item": "Veg Schezwan Momo (10 PCS.)",
+                "price": 170
+                },
+                {
+                "item": "Veg Tandoori Momo (10 PCS.)",
+                "price": 180
+                },
+                {
+                "item": "Veg Afgani Momo (10 PCS.)",
+                "price": 190
+                },
+                {
+                "item": "Chicken Steam Momo (10 PCS.)",
+                "price": 185
+                },
+                {
+                "item": "Chicken Fried Momo (10 PCS.)",
+                "price": 190
+                },
+                {
+                "item": "Chicken Schezwan Momo (10 PCS.)",
+                "price": 210
+                },
+                {
+                "item": "Chicken Tandoori Momo (10 PCS.)",
+                "price": 220
+                },
+                {
+                "item": "Chicken Afgani Momo (10 PCS.)",
+                "price": 230
+                }
+                ],
+                "South Indian": [
+                {
+                "item": "Paper Dosa",
+                "price": 80
+                },
+                {
+                "item": "Masala Dosa",
+                "price": 100
+                },
+                {
+                "item": "Paneer Dosa",
+                "price": 140
+                },
+                {
+                "item": "Paneer Masala Dosa",
+                "price": 125
+                },
+                {
+                "item": "Onion Masala Dosa",
+                "price": 105
+                },
+                {
+                "item": "Deepanshu Special Dosa",
+                "price": 140
+                },
+                {
+                "item": "Veg. Uttapam",
+                "price": 100
+                },
+                {
+                "item": "Sambar Vada",
+                "price": 70
+                },
+                {
+                "item": "Rava Masala Dosa",
+                "price": 120
+                },
+                {
+                "item": "Butter Masala Dosa",
+                "price": 125
+                },
+                {
+                "item": "Rava Paneer Dosa",
+                "price": 140
+                },
+                {
+                "item": "Onion Uttapam",
+                "price": 100
+                },
+                {
+                "item": "Tomato Uttapam",
+                "price": 110
+                },
+                {
+                "item": "Onion Tomato Uttapam",
+                "price": 110
+                },
+                {
+                "item": "Paneer Uttapam",
+                "price": 130
+                },
+                {
+                "item": "Deepanshu Special Uttapam",
+                "price": 140
+                },
+                {
+                "item": "Butter Spl. Masala Dosa",
+                "price": 160
+                },
+                {
+                "item": "Dahi Vada (4 PCS)",
+                "price": 100
+                }
+                ],
+                "South Indian Platter": [
+                    {
+                    "item": "South Indian Platter",
+                    "price": 200
+                    },
+                    {
+                    "item": "Spring Roll Dosa",
+                    "price": 160
+                    },
+                    {
+                    "item": "Idli Sambar (2 PCS)",
+                    "price": 90
+                    },
+                    {
+                    "item": "Masala Idli (2 PCS)",
+                    "price": 120
+                    },
+                    {
+                    "item": "Rava Idli (2 PCS)",
+                    "price": 150
+                    }
+                    ],
+                    "PAV. BHAJI+VADA PAV": [
+                    {
+                    "item": "Pav. Bhaji 2 Pcs",
+                    "price": 99
+                    },
+                    {
+                    "item": "Vada Pav 2 Pcs",
+                    "price": 99
+                    }
+                    ],
+                    "Combo": [
+                    {
+                    "item": "Veg. Mancharisn+Noodles",
+                    "price": 170
+                    },
+                    {
+                    "item": "Rajma + Chawal with Onion & Papad",
+                    "price": 140
+                    },
+                    {
+                    "item": "Chhole + Chawal with Onion & Papad",
+                    "price": 150
+                    },
+                    {
+                    "item": "Dal + Chawal with Onion & Papad",
+                    "price": 150
+                    },
+                    {
+                    "item": "Keema Nan (2 Pc.) + Gravy (Mutton)",
+                    "price": 160
+                    },
+                    {
+                    "item": "Stuff Nan (2 Pc.) + Gravy",
+                    "price": 140
+                    },
+                    {
+                    "item": "Paneer Nan (2 Pc.) + Gravy",
+                    "price": 150
+                    },
+                    {
+                    "item": "Veg. Mancharisn + Veg. Fried Rice",
+                    "price": 180
+                    },
+                    {
+                    "item": "Chicken Chilli W/Fried Rice",
+                    "price": 220
+                    },
+                    {
+                    "item": "Chicken Chilli W/Noodle",
+                    "price": 210
+                    },
+                    {
+                    "item": "Chilli Paneer W/Fried Rice",
+                    "price": 200
+                    },
+                    {
+                    "item": "Chilli Paneer W/Noodles",
+                    "price": 200
+                    }
+                    ],
+                    "Noodles": [
+                    {
+                    "item": "Veg. Noodles",
+                    "full": 130,
+                    "half": 75
+                    },
+                    {
+                    "item": "Veg. Noodles with Garlic",
+                    "full": 140,
+                    "half": 80
+                    },
+                    {
+                    "item": "Hakka Noodles",
+                    "full": 130,
+                    "half": 80
+                    },
+                    {
+                    "item": "Paneer Noodles",
+                    "full": 150,
+                    "half": 90
+                    },
+                    {
+                    "item": "Egg Noodles",
+                    "full": 160,
+                    "half": 95
+                    },
+                    {
+                    "item": "Chicken Noodles",
+                    "full": 170,
+                    "half": 105
+                    },
+                    {
+                    "item": "Singapori Noodles Veg.",
+                    "full": 160,
+                    "half": 95
+                    },
+                    {
+                    "item": "Singapori Noodles Chicken",
+                    "full": 170,
+                    "half": 105
+                    },
+                    {
+                    "item": "Veg. Schezwan Noodles",
+                    "full": 150,
+                    "half": 85
+                    },
+                    {
+                    "item": "Chicken Schezwan Noodles",
+                    "full": 170,
+                    "half": 105
+                    }
+                    ]
+    }
