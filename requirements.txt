@@ -11,3 +11,5 @@ openai
 jq
 chromadb
 pysqlite3-binary
+langsmith
+python-dotenv
