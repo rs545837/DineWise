@@ -14,3 +14,5 @@ pysqlite3-binary
 langsmith
 python-dotenv
 pypdf
+faiss-gpu
+faiss-cpu
