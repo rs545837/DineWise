@@ -916,5 +916,135 @@
     "price": 110.0
     }
     ],
-    
+    "CHOPSUEY": [
+        {
+        "item": "Veg. Chopsuey",
+        "price": 130.0
+        },
+        {
+        "item": "Chinese Chopsuey (Non Veg.)",
+        "price": 150.0
+        }
+        ],
+        "DAHI & RAITA": [
+        {
+        "item": "Plain Dahi",
+        "price": 70.0
+        },
+        {
+        "item": "Tadke wali Dahi",
+        "price": 90.0
+        },
+        {
+        "item": "Aloo Raita",
+        "price": 90.0
+        },
+        {
+        "item": "Boondi Raita",
+        "price": 90.0
+        },
+        {
+        "item": "Mix Raita",
+        "price": 100.0
+        },
+        {
+        "item": "Pineapple Raita",
+        "price": 110.0
+        }
+        ],
+        "SALAD": [
+        {
+        "item": "Green Salad",
+        "price": 50.0
+        },
+        {
+        "item": "Onion Salad",
+        "price": 40.0
+        },
+        {
+        "item": "Kachumber Salad",
+        "price": 45.0
+        }
+        ],
+        "MUTTON CURRY": [
+        {
+        "item": "Mutton Masala",
+        "price-4pc": 350.0,
+        "price-2pc": 210.0
+        },
+        {
+        "item": "Kadhai Mutton",
+        "price-4pc": 350.0,
+        "price-2pc": 210.0
+        },
+        {
+        "item": "Mutton Do Pyaza",
+        "price-4pc": 350.0,
+        "price-2pc": 210.0
+        },
+        {
+        "item": "Mutton Curry",
+        "price-4pc": 340.0,
+        "price-2pc": 210.0
+        },
+        {
+        "item": "Mutton Rogan Josh",
+        "price-4pc": 350.0,
+        "price-2pc": 210.0
+        },
+        {
+        "item": "Keema Curry",
+        "price-4pc": 340.0
+        },
+        {
+        "item": "Keema Matar",
+        "price-4pc": 360.0
+        },
+        {
+        "item": "Extra Gravy 550ml",
+        "price": 130.0
+        }
+        ],
+        "PALAO": [
+        {
+        "item": "Veg. Palao",
+        "price": 150.0
+        },
+        {
+        "item": "Mutter Palao",
+        "price": 140.0
+        },
+        {
+        "item": "Paneer Palao",
+        "price": 160.0
+        },
+        {
+        "item": "Navratan Palao",
+        "price": 170.0
+        },
+        {
+        "item": "Chicken Palao",
+        "price": 180.0
+        },
+        {
+        "item": "Veg Biryani With Raita",
+        "price": 170.0
+        },
+        {
+        "item": "Egg Biryani With Gravy",
+        "price": 180.0
+        },
+        {
+        "item": "Chicken Biryani With Gravy",
+        "price": 200.0
+        },
+        {
+        "item": "Chicken Hydrabadi Biryani With Gravy",
+        "price": 220.0
+        },
+        {
+        "item": "Mutton Biryani With Gravy",
+        "price": 230.0
+        }
+        ]
     }
