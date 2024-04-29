@@ -125,7 +125,8 @@ def main():
 
     if st.button("Select For Me") or (prev_qry != query):
         prev_qry = query
-        result = chain.invoke(query)
+        with st.spinner("Generating suggestions..."):
+            result = chain.invoke(query)
         st.write("Answer:", result)
 
 if __name__ == "__main__":
