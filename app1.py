@@ -46,7 +46,7 @@ def setup_chain(retriever, system_prompt):
         SystemMessagePromptTemplate.from_template(system_prompt),
         HumanMessagePromptTemplate.from_template(template)
     ])
-    model = ChatOpenAI(model='gpt-4-turbo')
+    model = ChatOpenAI(model='gpt-4-turbo-preview')
     chain = (
         {"context": retriever, "question": RunnablePassthrough()}
         | prompt
