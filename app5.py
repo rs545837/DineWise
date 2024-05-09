@@ -9,6 +9,8 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 import os
 from dotenv import load_dotenv
 import langsmith
+from langchain_google_genai import ChatGoogleGenerativeAI
+
 
 load_dotenv()
 
@@ -50,7 +52,9 @@ def setup_chain(retriever, system_prompt):
         SystemMessagePromptTemplate.from_template(system_prompt),
         HumanMessagePromptTemplate.from_template(template)
     ])
-    model = ChatOpenAI()
+    model = ChatGoogleGenerativeAI(model="gemini-pro",
+                                temperature=0.7,
+                                top_p=0.85)
     chain = (
         {"context": retriever, "question": RunnablePassthrough()}
         | prompt

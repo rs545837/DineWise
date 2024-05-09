@@ -1257,5 +1257,65 @@
             "name": "Kulhad Tea",
             "price": 95,
             "categories": ["Hot Beverages"]
+        },
+        {
+            "name": "Jalebi Rabri",
+            "price": 249.00,
+            "categories": ["Desserts", "Sweets"]
+        },
+        {
+            "name": "Gulab Jamun",
+            "price": 150.00,
+            "categories": ["Desserts", "Sweets"]
+        },
+        {
+            "name": "Gulab Jamun With Ice Cream",
+            "price": 249.00,
+            "categories": ["Desserts", "Sweets", "Ice Cream"]
+        },
+        {
+            "name": "Brownie With Ice Cream",
+            "price": 249.00,
+            "categories": ["Desserts", "Sweets", "Brownies", "Ice Cream"]
+        },
+        {
+            "name": "Banana Split",
+            "price": 269.00,
+            "categories": ["Desserts", "Ice Cream"]
+        },
+        {
+            "name": "Hot Chocolate Sundae",
+            "price": 299.00,
+            "categories": ["Desserts", "Sweets", "Ice Cream"]
+        },
+        {
+            "name": "Strawberry Sundae",
+            "price": 270.00,
+            "categories": ["Desserts", "Sweets", "Ice Cream"]
+        },
+        {
+            "name": "Triple Sundae",
+            "price": 299.00,
+            "categories": ["Desserts", "Sweets", "Ice Cream"]
+        },
+        {
+            "name": "Ice Cream",
+            "price": 120.00,
+            "categories": ["Desserts", "Ice Cream"]
+        },
+        {
+            "name": "Gajar Ka Halwa",
+            "price": 199.00,
+            "categories": ["Desserts", "Sweets"]
+        },
+        {
+            "name": "Petha Kheer",
+            "price": 249.00,
+            "categories": ["Desserts", "Sweets"]
+        },
+        {
+            "name": "Kalakand",
+            "price": 249.00,
+            "categories": ["Desserts", "Sweets"]
         }
     ]
