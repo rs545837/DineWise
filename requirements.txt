@@ -15,3 +15,13 @@ langsmith
 python-dotenv
 pypdf
 faiss-cpu
+google-generativeai
+fastapi
+uvicorn
+twilio
+python-decouple
+sqlalchemy
+psycopg2-binary
+python-multipart
+pyngrok
+flask

@@ -1,0 +1,1261 @@
+[    {
+      "name": "Coke",
+      "price": 90,
+      "categories": ["Cold Beverages"]
+    },
+    {
+      "name": "Mineral Water",
+      "price": 60,
+      "categories": ["Cold Beverages"]
+    },
+    {
+      "name": "Margherita Pizza",
+      "price": 550,
+      "categories": ["Veg Pizza"]
+    },
+    {
+      "name": "Farmhouse Special Pizza",
+      "price": 580,
+      "categories": ["Veg Pizza"]
+    },
+    {
+      "name": "Paneer Tikka Pizza",
+      "price": 530,
+      "categories": ["Veg Pizza"]
+    },
+    {
+      "name": "Veg Tandoori Platter",
+      "price": 740,
+      "categories": ["Platters"]
+    },
+    {
+      "name": "Non Veg Tandoori Platter",
+      "price": 749,
+      "categories": ["Platters"]
+    },
+    {
+      "name": "Veg Chinese Sizzler",
+      "price": 680,
+      "categories": ["Platters"]
+    },
+    {
+      "name": "Non Veg Chinese Sizzler",
+      "price": 699,
+      "categories": ["Platters"]
+    },
+    {
+      "name": "Veg European Sizzler",
+      "price": 615,
+      "categories": ["Platters"]
+    },
+    {
+      "name": "Cottage Cheese Sizzler",
+      "price": 699,
+      "categories": ["Platters"]
+    },
+    {
+        "name": "Dahi Ke Sholey",
+        "price": 440,
+        "categories": ["Veg Starters"]
+    },
+    {
+        "name": "Tandoori Bharwan Aloo",
+        "price": 355,
+        "categories": ["Veg Starters"]
+    },
+    {
+        "name": "Paneer Tikka Ajwaini",
+        "price": 415,
+        "categories": ["Veg Starters"]
+    },
+    {
+        "name": "Paneer Tikka Makhmali",
+        "price": 415,
+        "categories": ["Veg Starters"]
+    },
+    {
+        "name": "Tandoori Bharwan Mushroom",
+        "price": 399,
+        "categories": ["Veg Starters"]
+    },
+    {
+        "name": "Banarsi Seekh Kebab",
+        "price": 399,
+        "categories": ["Veg Starters"]
+    },
+    {
+        "name": "Bhutte Ke Kebab",
+        "price": 349,
+        "categories": ["Veg Starters"]
+    },
+    {
+        "name": "Honey Chilli Potato",
+        "price": 400,
+        "categories": ["Veg Starters"]
+    },
+    {
+        "name": "Dragon Roll",
+        "price": 389,
+        "categories": ["Veg Starters"]
+    },
+    {
+        "name": "Crispy Vegetable Salt And Pepper",
+        "price": 380,
+        "categories": ["Veg", "Starter", "Indo-Chinese"]
+      },
+      {
+        "name": "Veg Manchurian Dry",
+        "price": 370,
+        "categories": ["Veg", "Starter", "Indo-Chinese"]
+      },
+      {
+        "name": "Crispy Paneer",
+        "price": 430,
+        "categories": ["Veg", "Starter", "Indo-Chinese"]
+      },
+      {
+        "name": "Chilli Paneer Dry",
+        "price": 415,
+        "categories": ["Veg", "Starter", "Indo-Chinese"]
+      },
+      {
+        "name": "Cheese Nachos",
+        "price": 350,
+        "categories": ["Veg", "Starter", "Mexican"]
+      },
+      {
+        "name": "Corn Salt N Pepper",
+        "price": 434,
+        "categories": ["Veg", "Starter", "Indo-Chinese"]
+      },
+      {
+        "name": "Paneer Orly",
+        "price": 149,
+        "categories": ["Veg", "Starter", "Indo-Western"]
+      },
+      {
+        "name": "Veg Spring Rolls",
+        "price": 424,
+        "categories": ["Veg", "Starter", "Chinese"]
+      },
+      {
+        "name": "Paneer Tikka",
+        "price": 414,
+        "categories": ["Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Chilli Soya Chaap",
+        "price": 385,
+        "categories": ["Veg", "Starter", "Indo-Chinese"]
+      },
+      {
+        "name": "Mushroom Salt And Pepper",
+        "price": 399,
+        "categories": ["Veg", "Starter", "Indo-Chinese"]
+      },
+      {
+        "name": "Mix Pakode",
+        "price": 349,
+        "categories": ["Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Tiranga Paneer Tikka",
+        "price": 415,
+        "categories": ["Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Potato Cheese Ball",
+        "price": 349,
+        "categories": ["Veg", "Starter", "Western"]
+      },
+      {
+        "name": "Tau Sambhal",
+        "price": 415,
+        "categories": ["Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Chakundar Ke Kabab",
+        "price": 349,
+        "categories": ["Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Dal Makhani",
+        "price": 450,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Dal Tadka",
+        "price": 370,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Dhaba Dal Punjabi",
+        "price": 370,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Gobi Adraki",
+        "price": 349,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Bhindi Achari",
+        "price": 349,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Jeera Aloo Gharelu",
+        "price": 340,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Mix Vegetables",
+        "price": 350,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Dum Aloo Banarasi",
+        "price": 360,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Matar Mushroom",
+        "price": 350,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Palak Corn",
+        "price": 350,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Malai Kofta",
+        "price": 370,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Paneer Makhani",
+        "price": 425,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Shahi Paneer",
+        "price": 445,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Kadhai Paneer",
+        "price": 480,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Paneer Lababdar",
+        "price": 480,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Paneer Butter Masala",
+        "price": 440,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Palak Paneer",
+        "price": 425,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Kadhai Mushroom",
+        "price": 359,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Matar Methi Malai",
+        "price": 359,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Soya Chaap Masala",
+        "price": 359,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Paneer Rara",
+        "price": 465,
+        "categories": ["Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Bhatti Murgh Tikka",
+        "price": 640,
+        "categories": ["Non-Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Murgh Malai Tikka",
+        "price": 590,
+        "categories": ["Non-Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Tangri Kebab (4 Pcs)",
+        "price": 590,
+        "categories": ["Non-Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Chicken Reshmi Kebab",
+        "price": 560,
+        "categories": ["Non-Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Chicken Gilafi Seekh",
+        "price": 540,
+        "categories": ["Non-Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Tandoori Murgh",
+        "price": 420,
+        "categories": ["Non-Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Afghani Murgh",
+        "price": 410,
+        "categories": ["Non-Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Meeras Special Seekh Kebab",
+        "price": 690,
+        "categories": ["Non-Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Fish Tikka Ajwaini",
+        "price": 715,
+        "categories": ["Non-Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Chicken Satay",
+        "price": 490,
+        "categories": ["Non-Veg", "Starter", "Asian"]
+      },
+      {
+        "name": "Chilli Chicken Dry",
+        "price": 640,
+        "categories": ["Non-Veg", "Starter", "Chinese"]
+      },
+      {
+        "name": "Chicken Kung Pao",
+        "price": 620,
+        "categories": ["Non-Veg", "Starter", "Chinese"]
+      },
+      {
+        "name": "Crispy Chicken Salt And Pepper",
+        "price": 540,
+        "categories": ["Non-Veg", "Starter", "Chinese"]
+      },
+      {
+        "name": "Chicken Lollipop",
+        "price": 515,
+        "categories": ["Non-Veg", "Starter", "Chinese"]
+      },
+      {
+        "name": "Mutton Seekh Kebab",
+        "price": 559,
+        "categories": ["Non-Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Fish Amritsari",
+        "price": 715,
+        "categories": ["Non-Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Grilled Fish",
+        "price": 690,
+        "categories": ["Non-Veg", "Starter", "Continental"]
+      },
+      {
+        "name": "Oriental Chicken Tikka",
+        "price": 549,
+        "categories": ["Non-Veg", "Starter", "Chinese"]
+      },
+      {
+        "name": "Tiranga Chicken Tikka",
+        "price": 549,
+        "categories": ["Non-Veg", "Starter", "Indian"]
+      },
+      {
+        "name": "Grilled Chicken",
+        "price": 599,
+        "categories": ["Non-Veg", "Starter", "Continental"]
+      },
+      {
+        "name": "Fish Meuniere With Lock Nd Lemon",
+        "price": 699,
+        "categories": ["Non-Veg", "Starter", "Continental"]
+      },
+      {
+        "name": "Stuffed Chicken Breast With Brown Sauce",
+        "price": 599,
+        "categories": ["Non-Veg", "Starter", "Continental"]
+      },
+      {
+        "name": "Chilli Paneer Gravy",
+        "price": 425,
+        "categories": ["Veg", "Chinese"]
+      },
+      {
+        "name": "Veg Manchurian Gravy",
+        "price": 379,
+        "categories": ["Veg", "Chinese"]
+      },
+      {
+        "name": "Vegetables In Hot Garlic Sauce",
+        "price": 379,
+        "categories": ["Veg", "Chinese"]
+      },
+      {
+        "name": "Thai Curry Red Or Green",
+        "price": 389,
+        "categories": ["Veg", "Chinese"]
+      },
+      {
+        "name": "Thai Curry Non Veg Red Or Green",
+        "price": 499,
+        "categories": ["Non-Veg", "Chinese"]
+      },
+      {
+        "name": "Chilli Chicken Gravy",
+        "price": 549,
+        "categories": ["Non-Veg", "Chinese"]
+      },
+      {
+        "name": "Chicken Manchurian Gravy",
+        "price": 549,
+        "categories": ["Non-Veg", "Chinese"]
+      },
+      {
+        "name": "Chicken In Hot Garlic Sauce",
+        "price": 549,
+        "categories": ["Non-Veg", "Chinese"]
+      },
+      {
+        "name": "Chicken In Black Bean Sauce",
+        "price": 549,
+        "categories": ["Non-Veg", "Chinese"]
+      },
+      {
+        "name": "Butter Chicken",
+        "price": 489,
+        "categories": ["Non-Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Kadhai Chicken",
+        "price": 479,
+        "categories": ["Non-Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Meoras Bistro Special Chicken Masala",
+        "price": 559,
+        "categories": ["Non-Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Murgh Tikka Lababdar",
+        "price": 559,
+        "categories": ["Non-Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Murgh Kalimirch",
+        "price": 556,
+        "categories": ["Non-Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Mutton Rogan Josh",
+        "price": 625,
+        "categories": ["Non-Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Egg Curry",
+        "price": 350,
+        "categories": ["Non-Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Chicken Curry",
+        "price": 440,
+        "categories": ["Non-Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Mutton Rara",
+        "price": 660,
+        "categories": ["Non-Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Chicken Patialvi",
+        "price": 556,
+        "categories": ["Non-Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Dahi Murgh",
+        "price": 556,
+        "categories": ["Non-Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Nargisi Kofta",
+        "price": 649,
+        "categories": ["Non-Veg", "Main Course", "Indian"]
+      },
+      {
+        "name": "Steamed Rice",
+        "price": 190,
+        "categories": ["Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Jeera Rice",
+        "price": 190,
+        "categories": ["Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Peas Pulao",
+        "price": 190,
+        "categories": ["Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Veg Dum Biryani",
+        "price": 340,
+        "categories": ["Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Chicken Dum Biryani",
+        "price": 425,
+        "categories": ["Non-Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Mutton Hyderabadi Biryani",
+        "price": 499,
+        "categories": ["Non-Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Veg Stir Fried Rice",
+        "price": 235,
+        "categories": ["Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Chicken Stir Fried Rice",
+        "price": 300,
+        "categories": ["Non-Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Veg Hakka Noodles",
+        "price": 320,
+        "categories": ["Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Chicken Hakka Noodles",
+        "price": 310,
+        "categories": ["Non-Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Veg Chopsuey",
+        "price": 235,
+        "categories": ["Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "American Chopsuey Non Veg",
+        "price": 310,
+        "categories": ["Non-Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Veg Schezwan Noodles",
+        "price": 290,
+        "categories": ["Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Chicken Schezwan Noodles",
+        "price": 310,
+        "categories": ["Non-Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Chilli Garlic Rice",
+        "price": 235,
+        "categories": ["Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Chilli Garlic Rice Non Veg",
+        "price": 310,
+        "categories": ["Non-Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Tiranga Biryani Veg",
+        "price": 349,
+        "categories": ["Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Veg Chilli Garlic Noodles",
+        "price": 265,
+        "categories": ["Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Chicken Chilli Garlic Noodles",
+        "price": 300,
+        "categories": ["Non-Veg", "Rice and Noodles"]
+        },
+        {
+        "name": "Mixed Raita",
+        "price": 149,
+        "categories": ["Veg", "Raita"]
+        },
+        {
+        "name": "Cucumber Raita",
+        "price": 120,
+        "categories": ["Veg", "Raita"]
+        },
+        {
+        "name": "Jeera Raita",
+        "price": 120,
+        "categories": ["Veg", "Raita"]
+        },
+        {
+        "name": "Boondi Raita",
+        "price": 120,
+        "categories": ["Veg", "Raita"]
+        },
+        {
+        "name": "Pineapple Raita",
+        "price": 149,
+        "categories": ["Veg", "Raita"]
+        },
+        {
+        "name": "Plain Curd",
+        "price": 120,
+        "categories": ["Veg", "Raita"]
+        },
+        {
+        "name": "Garden Green Salad",
+        "price": 169,
+        "categories": ["Veg", "Salad"]
+        },
+        {
+        "name": "Mixed Sprouts Salad",
+        "price": 175,
+        "categories": ["Veg", "Salad"]
+        },
+        {
+        "name": "Caesar Salad Non Veg",
+        "price": 210,
+        "categories": ["Non-Veg", "Salad"]
+        },
+        {
+        "name": "Caesar Salad",
+        "price": 189,
+        "categories": ["Veg", "Salad"]
+        },
+        {
+        "name": "Rainbow Salad",
+        "price": 199,
+        "categories": ["Veg", "Salad"]
+        },
+        {
+        "name": "Chicken Hawaiian Salad",
+        "price": 210,
+        "categories": ["Non-Veg", "Salad"]
+        },
+        {
+        "name": "Green Salad",
+        "price": 169,
+        "categories": ["Veg", "Salad"]
+        },
+        {
+        "name": "Chicken Tikka Pizza",
+        "price": 599,
+        "categories": ["Non-Veg", "Pizza"]
+        },
+        {
+        "name": "Peri Peri Chicken Pizza",
+        "price": 599,
+        "categories": ["Non-Veg", "Pizza"]
+        },
+        {
+        "name": "Veg Lasagna",
+        "price": 399,
+        "categories": ["Veg", "Lasagna"]
+        },
+        {
+        "name": "Chicken Lasagna",
+        "price": 449,
+        "categories": ["Non-Veg", "Lasagna"]
+        },
+        {
+        "name": "Veg Arrabbiata Penne",
+        "price": 399,
+        "categories": ["Veg", "Pasta"]
+        },
+        {
+        "name": "Arrabbiata Chicken Pasta",
+        "price": 449,
+        "categories": ["Non-Veg", "Pasta"]
+        },
+        {
+        "name": "Veg Alfredo Penne",
+        "price": 464,
+        "categories": ["Veg", "Pasta"]
+        },
+        {
+        "name": "Chicken Alfredo Pasta",
+        "price": 449,
+        "categories": ["Non-Veg", "Pasta"]
+        },
+        {
+        "name": "Veg Penne Ala Pesto",
+        "price": 399,
+        "categories": ["Veg", "Pasta"]
+        },
+        {
+        "name": "Chicken Penne A La Pesto Pasta",
+        "price": 449,
+        "categories": ["Non-Veg", "Pasta"]
+        },
+        {
+        "name": "French Fries",
+        "price": 259,
+        "categories": ["Snack"]
+        },
+        {
+        "name": "Veg Grilled Sandwich",
+        "price": 307,
+        "categories": ["Snack", "Sandwich"]
+        },
+        {
+        "name": "Mix Sauce",
+        "price": 399,
+        "categories": ["Snack"]
+        },
+        {
+        "name": "Garlic Bread With Cheese",
+        "price": 249,
+        "categories": ["Snack"]
+        },
+        {
+        "name": "Chicken Sandwich",
+        "price": 399,
+        "categories": ["Snack", "Sandwich"]
+        },
+        {
+        "name": "Bread Toast",
+        "price": 120,
+        "categories": ["Snack"]
+        },
+        {
+        "name": "Omelette",
+        "price": 120,
+        "categories": ["Snack"]
+        },
+        {
+        "name": "Veg Burger",
+        "price": 215,
+        "categories": ["Snack", "Burger"]
+        },
+        {
+        "name": "Cheese Burger",
+        "price": 249,
+        "categories": ["Snack", "Burger"]
+        },
+        {
+        "name": "Chicken Burger",
+        "price": 269,
+        "categories": ["Snack", "Burger"]
+        },
+        {
+        "name": "Tiranga Burger",
+        "price": 299,
+        "categories": ["Snack", "Burger"]
+        },
+        {
+        "name": "Garlic Bread",
+        "price": 180,
+        "categories": ["Snack"]
+        },
+        {
+        "name": "Milk Chocolate Doughnut",
+        "price": 109,
+        "categories": ["Dessert", "Doughnut", "Sweet"]
+        },
+        {
+        "name": "Choco Walnut Doughnut",
+        "price": 109,
+        "categories": ["Dessert", "Doughnut", "Sweet", "Nuts"]
+        },
+        {
+        "name": "Rainbow Doughnuts",
+        "price": 109,
+        "categories": ["Dessert", "Doughnut", "Sweet", "Colorful"]
+        },
+        {
+        "name": "Dark Chocolate Doughnut",
+        "price": 99,
+        "categories": ["Dessert", "Doughnut", "Sweet", "Dark Chocolate"]
+        },
+        {
+        "name": "Doughnut Combo (4pcs)",
+        "price": 499,
+        "categories": ["Dessert", "Doughnut", "Sweet", "Combo"]
+        },
+        {
+        "name": "Doughnut Combo (6pcs)",
+        "price": 549,
+        "categories": ["Dessert", "Doughnut", "Sweet", "Combo"]
+        },
+        {
+        "name": "Cashew Choco Jar 300 Gm",
+        "price": 210,
+        "categories": ["Dessert", "Cookies", "Sweet", "Cashew"]
+        },
+        {
+        "name": "Whole Wheat Jar 300 Gm",
+        "price": 210,
+        "categories": ["Dessert", "Cookies", "Sweet", "Whole Wheat"]
+        },
+        {
+        "name": "Peanut Butter Jar 300 Gm",
+        "price": 199,
+        "categories": ["Dessert", "Cookies", "Sweet", "Peanut Butter"]
+        },
+        {
+        "name": "Oats And Raisins Jar 300 Gm",
+        "price": 199,
+        "categories": ["Dessert", "Cookies", "Sweet", "Oats", "Raisins"]
+        },
+        {
+        "name": "Jeera Jar 300 Gm",
+        "price": 210,
+        "categories": ["Dessert", "Cookies", "Sweet", "Jeera"]
+        },
+        {
+        "name": "Coconut Jar 300 Gm",
+        "price": 199,
+        "categories": ["Dessert", "Cookies", "Sweet", "Coconut"]
+        },
+        {
+        "name": "Choco Walnut Brownie",
+        "price": 119,
+        "categories": ["Dessert", "Brownie", "Sweet", "Chocolate", "Walnut"]
+        },
+        {
+        "name": "Giant Cookie",
+        "price": 700,
+        "categories": ["Dessert", "Cookies", "Sweet", "Large"]
+        },
+        {
+        "name": "Cookies Combo (2box)",
+        "price": 349,
+        "categories": ["Dessert", "Cookies", "Sweet", "Combo"]
+        },
+        {
+        "name": "Cookies Combo (4box)",
+        "price": 649,
+        "categories": ["Dessert", "Cookies", "Sweet", "Combo"]
+        },
+        {
+        "name": "Peanut Butter Cookie",
+        "price": 199,
+        "categories": ["Dessert", "Cookies", "Sweet", "Peanut Butter"]
+        },
+        {
+        "name": "Pista Chio",
+        "price": 79,
+        "categories": ["Dessert", "Macaron", "Sweet", "Pistachio"]
+        },
+        {
+        "name": "Coconut Macaron",
+        "price": 79,
+        "categories": ["Dessert", "Macaron", "Sweet", "Coconut"]
+        },
+        {
+        "name": "Chocolate Macaron",
+        "price": 79,
+        "categories": ["Dessert", "Macaron", "Sweet", "Chocolate"]
+        },
+        {
+        "name": "Lemon Macaron",
+        "price": 79,
+        "categories": ["Dessert", "Macaron", "Sweet", "Lemon"]
+        },
+        {
+        "name": "Mushroom Puff",
+        "price": 110,
+        "categories": ["Snack", "Puff", "Savory", "Mushroom"]
+        },
+        {
+        "name": "Paneer Puff",
+        "price": 110,
+        "categories": ["Snack", "Puff", "Savory", "Paneer"]
+        },
+        {
+        "name": "Chicken Puff",
+        "price": 110,
+        "categories": ["Snack", "Puff", "Savory", "Paneer"]
+        },
+        {
+        "name": "Chocolate Croissant",
+        "price": 110,
+        "categories": ["Snack", "Puff", "Savory", "Paneer"]
+        },
+        {
+        "name": "Almond Croissant",
+        "price": 110,
+        "categories": ["Snack", "Puff", "Savory", "Paneer"]
+        },
+        {
+        "name": "Belgian Waffle",
+        "price": 110,
+        "categories": ["Snack", "Puff", "Savory", "Paneer"]
+        },
+        {
+        "name": "Belgian Macaron",
+        "price": 110,
+        "categories": ["Snack", "Puff", "Savory", "Paneer"]
+        },
+        {
+        "name": "Soft Truffle 500gm",
+        "price": 449,
+        "categories": ["Cakes", "Chocolate", "Dessert"]
+        },
+        {
+        "name": "Fresh Fruit 500gm",
+        "price": 549,
+        "categories": ["Cakes", "Fruit", "Dessert"]
+        },
+        {
+        "name": "Red Velvet 500gm",
+        "price": 749,
+        "categories": ["Cakes", "Red Velvet", "Dessert"]
+        },
+        {
+        "name": "Belgium Old Monk 500gm",
+        "price": 749,
+        "categories": ["Cakes", "Alcohol", "Dessert"]
+        },
+        {
+        "name": "Blueberry 500gm",
+        "price": 549,
+        "categories": ["Cakes", "Blueberry", "Dessert"]
+        },
+        {
+        "name": "Blueberry Cheese Cake 500gm",
+        "price": 749,
+        "categories": ["Cakes", "Cheese Cake", "Blueberry", "Dessert"]
+        },
+        {
+        "name": "Pineapple 500gm",
+        "price": 399,
+        "categories": ["Cakes", "Pineapple", "Dessert"]
+        },
+        {
+        "name": "Black Forest 500gm",
+        "price": 549,
+        "categories": ["Cakes", "Black Forest", "Dessert"]
+        },
+        {
+        "name": "Butter Scotch 500gm",
+        "price": 499,
+        "categories": ["Cakes", "Butter Scotch", "Dessert"]
+        },
+        {
+        "name": "Cookie N Cream 500gm",
+        "price": 549,
+        "categories": ["Cakes", "Cookie", "Cream", "Dessert"]
+        },
+        {
+        "name": "Almond Rock",
+        "price": 59,
+        "categories": ["Cookies", "Almond", "Snack"]
+        },
+        {
+        "name": "Cashew Rock",
+        "price": 60,
+        "categories": ["Cookies", "Cashew", "Snack"]
+        },
+        {
+        "name": "Rum Ball",
+        "price": 69,
+        "categories": ["Cookies", "Rum", "Snack"]
+        },
+        {
+        "name": "Brownie",
+        "price": 119,
+        "categories": ["Cookies", "Chocolate", "Dessert"]
+        },
+        {
+        "name": "Dark Chocolate Truffle 500gm",
+        "price": 549,
+        "categories": ["Cakes", "Chocolate", "Truffle", "Dessert"]
+        },
+        {
+        "name": "Choco Walnut Brownie Cake",
+        "price": 599,
+        "categories": ["Cakes", "Brownie", "Walnut", "Dessert"]
+        },
+        {
+        "name": "Plum Cake 500gm",
+        "price": 399,
+        "categories": ["Cakes", "Plum", "Dessert"]
+        },
+        {
+        "name": "Choco & Vanilla Cake",
+        "price": 399,
+        "categories": ["Cakes", "Chocolate", "Vanilla", "Dessert"]
+        },
+        {
+        "name": "Decadent White Forest 500gm",
+        "price": 549,
+        "categories": ["Cakes", "White Forest", "Dessert"]
+        },
+        {
+        "name": "Pista Velvet With Cheese Cream Cake",
+        "price": 549,
+        "categories": ["Cakes", "Pistachio", "Velvet", "Cheese Cream", "Dessert"]
+        },
+        {
+        "name": "Choc Cake 5 Kg",
+        "price": 4000,
+        "categories": ["Cakes", "Chocolate", "Large", "Dessert"]
+        },
+        {
+        "name": "Cake Modified",
+        "price": 3600,
+        "categories": ["Cakes", "Custom", "Dessert"]
+        },
+        {
+        "name": "Strawberry Cake",
+        "price": 630,
+        "categories": ["Cakes", "Strawberry", "Dessert"]
+        },
+        {
+        "name": "Valentine Special Cake",
+        "price": 249,
+        "categories": ["Cakes", "Valentine", "Special Edition", "Dessert"]
+        },
+        {
+        "name": "Mother's Day Special Cake",
+        "price": 259,
+        "categories": ["Cakes", "Mother's Day", "Special Edition", "Dessert"]
+        },
+        {
+        "name": "Mango Cake",
+        "price": 569,
+        "categories": ["Cakes", "Mango", "Dessert"]
+        },
+        {
+        "name": "Hamperrr",
+        "price": 2270,
+        "categories": ["Cakes", "Assorted", "Gift"]
+        },
+        {
+            "name": "Red Velvet Pastry",
+            "price": 159,
+            "categories": ["Pastry", "Dessert", "Baked Goods"]
+          },
+          {
+            "name": "Dark Chocolate Pastry",
+            "price": 119,
+            "categories": ["Pastry", "Dessert", "Chocolate"]
+          },
+          {
+            "name": "Classic Soft Truffle Pastry",
+            "price": 99,
+            "categories": ["Pastry", "Dessert", "Truffle"]
+          },
+          {
+            "name": "Pineapple Pastry",
+            "price": 89,
+            "categories": ["Pastry", "Dessert", "Fruit"]
+          },
+          {
+            "name": "Butter Scotch Pastry",
+            "price": 99,
+            "categories": ["Pastry", "Dessert", "Butterscotch"]
+          },
+          {
+            "name": "Blurberry Cheese Pastry",
+            "price": 169,
+            "categories": ["Pastry", "Dessert", "Cheese", "Blueberry"]
+          },
+          {
+            "name": "Belgium Pastry",
+            "price": 159,
+            "categories": ["Pastry", "Dessert", "Belgian"]
+          },
+          {
+            "name": "Black Forest Pastry",
+            "price": 119,
+            "categories": ["Pastry", "Dessert", "Chocolate", "Cherry"]
+          },
+          {
+            "name": "Regular Pastry Combo (4pcs)",
+            "price": 499,
+            "categories": ["Pastry", "Dessert", "Combo"]
+          },
+          {
+            "name": "Premium Pastry Combo (4pcs)",
+            "price": 599,
+            "categories": ["Pastry", "Dessert", "Premium", "Combo"]
+          },
+          {
+            "name": "Cashew Chocolate Fudge",
+            "price": 69,
+            "categories": ["Pastry", "Dessert", "Fudge", "Chocolate", "Nuts"]
+          },
+          {
+            "name": "Carrot Cinnamon Pastry",
+            "price": 169,
+            "categories": ["Pastry", "Dessert", "Carrot", "Cinnamon"]
+          },
+          {
+            "name": "Crazy Heart",
+            "price": 79,
+            "categories": ["Pastry", "Dessert", "Special"]
+          },
+          {
+            "name": "Freshfruits",
+            "price": 1050,
+            "categories": ["Pastry", "Dessert", "Fruit"]
+          },
+          {
+            "name": "Lemon Tart",
+            "price": 129,
+            "categories": ["Tart", "Dessert", "Citrus"]
+          },
+          {
+            "name": "Chocolate Tart",
+            "price": 79,
+            "categories": ["Tart", "Dessert", "Chocolate"]
+          },
+          {
+            "name": "Sauteed Vegetables Wraps",
+            "price": 139,
+            "categories": ["Wraps", "Vegetable", "Savory"]
+          },
+          {
+            "name": "Southern Fried Chicken Wraps",
+            "price": 139,
+            "categories": ["Wraps", "Chicken", "Savory"]
+          },
+          {
+            "name": "Cold Coffee",
+            "price": 235,
+            "categories": ["Cold Beverages"]
+        },
+        {
+            "name": "Choco Hazelnut Frappe",
+            "price": 249,
+            "categories": ["Cold Beverages"]
+        },
+        {
+            "name": "Mint Lemon Ice Tea",
+            "price": 189,
+            "categories": ["Cold Beverages"]
+        },
+        {
+            "name": "Ginger Honey Tea",
+            "price": 145,
+            "categories": ["Cold Beverages"]
+        },
+        {
+            "name": "Coke",
+            "price": 90,
+            "categories": ["Cold Beverages"]
+        },
+        {
+            "name": "Mineral Water",
+            "price": 60,
+            "categories": ["Cold Beverages"]
+        },
+        {
+            "name": "Cold Coffee With Ice Cream",
+            "price": 260,
+            "categories": ["Cold Beverages"]
+        },
+        {
+            "name": "Decor",
+            "price": 7000,
+            "categories": ["Event"]
+        },
+        {
+            "name": "Soda",
+            "price": 50,
+            "categories": ["Cold Beverages"]
+        },
+        {
+            "name": "Set Menu",
+            "price": 1330,
+            "categories": ["Special"]
+        },
+        {
+            "name": "Photoshoot",
+            "price": 5000,
+            "categories": ["Event"]
+        },
+        {
+            "name": "Ice Cubes",
+            "price": 1000,
+            "categories": ["Cold Beverages"]
+        },
+        {
+            "name": "Fuse Coffee Current",
+            "price": 289,
+            "categories": ["Cold Beverages"]
+        },
+        {
+            "name": "Play Zone Charge",
+            "price": 2000,
+            "categories": ["Event"]
+        },
+        {
+            "name": "Glass",
+            "price": 10,
+            "categories": ["Accessories"]
+        },
+        {
+            "name": "Espresso",
+            "price": 129,
+            "categories": ["Hot Beverages"]
+        },
+        {
+            "name": "Americano",
+            "price": 149,
+            "categories": ["Hot Beverages"]
+        },
+        {
+            "name": "Cappuccino",
+            "price": 250,
+            "categories": ["Hot Beverages"]
+        },
+        {
+            "name": "Cafe Latte",
+            "price": 235,
+            "categories": ["Hot Beverages"]
+        },
+        {
+            "name": "Green Tea",
+            "price": 149,
+            "categories": ["Hot Beverages"]
+        },
+        {
+            "name": "Hot Chocolate",
+            "price": 189,
+            "categories": ["Hot Beverages"]
+        },
+        {
+            "name": "Elly Coffee",
+            "price": 599,
+            "categories": ["Hot Beverages"]
+        },
+        {
+            "name": "24k Gold Coffee",
+            "price": 499,
+            "categories": ["Hot Beverages"]
+        },
+        {
+            "name": "Special Cafe Mocha",
+            "price": 235,
+            "categories": ["Hot Beverages"]
+        },
+        {
+            "name": "Kulhad Tea",
+            "price": 95,
+            "categories": ["Hot Beverages"]
+        }
+    ]
